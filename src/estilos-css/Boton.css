@@ -1,0 +1,17 @@
+
+.button-number {
+    height: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1; /* Distribuir los elementos equitativamente en el espacio disponible horizontalmente*/
+    background-color: #1b1b32;
+    font-weight: bold;
+    font-size: 38px;
+    color: white;
+    margin: 4px;
+    border-radius: 25px;
+    border: 2px solid white;
+    cursor: pointer;
+    user-select: none;
+}
