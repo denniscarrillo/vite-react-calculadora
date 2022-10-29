@@ -36,6 +36,12 @@ function App() {
           <Boton>.</Boton>
           <Boton>/</Boton>
         </div>
+        <div className="fila">
+          <Boton>=</Boton>
+          <Boton>0</Boton>
+          <Boton>.</Boton>
+          <Boton>/</Boton>
+        </div>
       </div>
     </div>
   );
